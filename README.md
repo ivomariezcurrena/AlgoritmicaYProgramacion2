@@ -29,14 +29,14 @@ Esta fue la **primera versión** del sistema, desarrollado exclusivamente en Jav
 ---
 
 ## 📁 Estructura del proyecto
----
+
 red/
 ├── aplicacion/ # Encargada de ejecutar la aplicacion, por teminal o UI
 ├── datos/ # Clases encargadas de cargar los datos almacenados en los archivos
 ├── interfaz/ # clases de la Interfaz grafica
 ├── logica/ # Todo lo relacionado con la logica del negocio y los algoritmo
 └── modelo/ # Clases de dominio: Equipo, Router, Conexion, etc.
----
+
 ## 🖼️Imagenes
 ![Captura de pantalla 2025-06-28 192031](https://github.com/user-attachments/assets/ae08d954-d419-4589-91b4-aa2785fd97cc)
 ![Captura de pantalla 2025-06-28 192016](https://github.com/user-attachments/assets/3e13f210-268b-430f-8433-fd7b5d35f93f)
